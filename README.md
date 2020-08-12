@@ -3,6 +3,7 @@
 ### Udacity Machine Learning Engineer Nanodegree
 
 <span style="color: gray; font-size:1em;">Mateusz Zajac</span>
+<br>
 <span style="color: gray; font-size:1em;">Aug-2020</span>
 
 
@@ -48,7 +49,7 @@ The darksky dataset consists of approximately 43,500 data points, with each data
 - `windspeed`: the wind speed in miles per hour.
 
 **Target Variable**
-The target variable comes from the GIOS dataset which 43,500 data points and 4 features:
+The target variable comes from the GIOS dataset which has approximately 43,500 data points, with each datapoint having 4 features:
 
 - `pm25_nie`: Warsaw, Niepodległości Avenue
 - `pm25_kon`: Warsaw, Kondratowicza Street
@@ -77,7 +78,7 @@ The target variable comes from the GIOS dataset which 43,500 data points and 4 f
 * hyperopt == 0.2.4
 
 
-## IMPLEMENTATION
+## Implementation 
 The implementation of this project has been split into three parts and workbooks.
 
 **EDA**
@@ -136,7 +137,7 @@ PM2.5 actual vs prediction for July:
 ![results](https://i.imgur.com/OR7RFGy.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg4NTMxMzQsNTEzNDAwOTIwLDczMz
-UxMjExNiwtODc1MDU5OTk0LC0xMDQ3MzMyMzMxLDEyMDUxMzM0
-OTFdfQ==
+eyJoaXN0b3J5IjpbLTE4MDkzNjk1MTYsMTEzNjM5NDcwLC0xOT
+M4ODUzMTM0LDUxMzQwMDkyMCw3MzM1MTIxMTYsLTg3NTA1OTk5
+NCwtMTA0NzMzMjMzMSwxMjA1MTMzNDkxXX0=
 -->
